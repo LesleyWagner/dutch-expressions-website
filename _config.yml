@@ -1,0 +1,7 @@
+title: Privacy policies
+description: Privacy policy for my Android apps
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
