@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Dutch Expressions Privacy Policy"
 permalink: /dutch-expressions
+---
 
 **Privacy Policy**
 
