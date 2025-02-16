@@ -4,8 +4,6 @@ title: "Dutch Expressions Privacy Policy"
 permalink: /dutch-expressions
 ---
 
-**Privacy Policy**
-
 Effective Date: 15 feb 2025
 
 Dutch Expressions ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our Android application ("App").
