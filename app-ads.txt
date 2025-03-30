@@ -1,4 +1,1 @@
-# app-ads.txt for Dutch Expressions
-# Declare authorized sellers of ad inventory
-
 google.com, pub-4387629465609981, DIRECT, f08c47fec0942fa0
