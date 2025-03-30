@@ -6,4 +6,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 include:
-  - assets/app-ads.txt
+  - app-ads.txt
