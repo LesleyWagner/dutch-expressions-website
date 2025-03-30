@@ -1,9 +1,3 @@
----
-layout: page
-title: "Dutch Expressions app-ads.txt"
-permalink: /app-ads
----
-
 # app-ads.txt for Dutch Expressions
 # Declare authorized sellers of ad inventory
 
