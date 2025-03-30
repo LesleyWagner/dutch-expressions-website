@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dutch Expressions Privacy Policy"
-permalink: /dutch-expressions
+permalink: /privacy-policy
 ---
 
 Effective Date: 15 feb 2025

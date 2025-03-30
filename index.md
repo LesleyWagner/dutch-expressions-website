@@ -1,3 +1,3 @@
-# privacy policies
+# Dutch Expressions
 
-[Dutch Expressions](https://lesleywagner.github.io/privacy-policies/dutch-expressions)
+[Privacy policy](https://lesleywagner.github.io/privacy-policy)

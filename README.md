@@ -1,2 +1,2 @@
-# privacy policies
-This repo contains privacy policies for Android apps I developed.
+# Dutch expressions
+Developer website for the Android app Dutch Expressions.
